@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "prisma": "^1.34.5"
+  },
+  "name": "rbs_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
